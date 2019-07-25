@@ -7,8 +7,8 @@ Authors@R: c(person("Gregory","Jefferis", email="jefferis@gmail.com",
     person("Sridhar","Jagannathan", email="j.sridharrajan@gmail.com", 
     role = c("aut", "cre"), comment = c(ORCID = "0000-0002-2078-1145")))
 Description: Provides functionality for installing and updating all nat packages and friends in one go. This includes
-    both CRAN and github only packages. Other functionalities like checking conflicts are also provided. Inspired from
-    tidyverse and dtpupdate packages.
+    both CRAN and github only packages. Other functionalities like checking conflicts are also provided. Inspired by
+    the tidyverse and dtupdate packages.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
